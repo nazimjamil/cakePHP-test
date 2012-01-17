@@ -1,0 +1,58 @@
+2012-01-17 11:05:47 Error: [MissingHelperException] Helper class ScriptHelper could not be found.
+#0 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/View/View.php(574): HelperCollection->load('Script', Array)
+#1 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/View/View.php(356): View->loadHelpers()
+#2 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#3 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#4 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest), Object(CakeResponse))
+#5 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-01-17 12:14:53 Warning: Warning (2): call_user_func_array() expects parameter 1 to be a valid callback, class 'FacebookComponent' does not have a method 'initialize' in [/Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/Utility/ObjectCollection.php, line 104]
+Trace:
+ObjectCollection::trigger() - CORE/Cake/Utility/ObjectCollection.php, line 104
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 604
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 101
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-01-17 12:14:53 Warning: Warning (2): call_user_func_array() expects parameter 1 to be a valid callback, class 'FacebookComponent' does not have a method 'startup' in [/Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/Utility/ObjectCollection.php, line 104]
+Trace:
+ObjectCollection::trigger() - CORE/Cake/Utility/ObjectCollection.php, line 104
+Controller::startupProcess() - CORE/Cake/Controller/Controller.php, line 606
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 101
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
+[main] - APP/webroot/index.php, line 96
+
+2012-01-17 19:03:34 Error: [MissingConnectionException] Database connection "SQLSTATE[HY000] [2005] Unknown MySQL server host 'db01-share' (2)" is missing, or could not be created.
+#0 /Applications/MAMP/htdocs/_profero_dev_test/lib/Cake/Model/Datasource/DboSource.php(244): Mysql->connect()
+#1 /Applications/MAMP/htdocs/_profero_dev_test/lib/Cake/Model/ConnectionManager.php(101): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/_profero_dev_test/lib/Cake/Model/Model.php(3234): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/_profero_dev_test/lib/Cake/Model/Model.php(1030): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/_profero_dev_test/lib/Cake/Model/Model.php(3258): Model->setSource('homes')
+#5 /Applications/MAMP/htdocs/_profero_dev_test/lib/Cake/Model/Model.php(1564): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/app/Controller/home_controller.php(50): Model->save()
+#7 [internal function]: HomeController->saveData()
+#8 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#9 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/proferocake.phpfogapp.com/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest), Object(CakeResponse))
+#11 /Applications/MAMP/htdocs/_profero_dev_test/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2012-01-17 19:41:49 Error: [MissingActionException] Action PagesController::index() could not be found.
+#0 /Applications/MAMP/htdocs/_profero_dev_test/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/_profero_dev_test/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/_profero_dev_test_broken/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-01-17 19:42:08 Error: [MissingActionException] Action PagesController::index() could not be found.
+#0 /Applications/MAMP/htdocs/_profero_dev_test_broken/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/_profero_dev_test_broken/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/_profero_dev_test_broken/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-01-17 19:42:45 Error: [MissingActionException] Action PagesController::index() could not be found.
+#0 /Applications/MAMP/htdocs/_profero_dev_test_broken/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/_profero_dev_test_broken/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/_profero_dev_test_broken/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-01-17 19:43:41 Error: [MissingActionException] Action PagesController::index() could not be found.
+#0 /Applications/MAMP/htdocs/_profero_dev_test_broken/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/_profero_dev_test_broken/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/_profero_dev_test_broken/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}

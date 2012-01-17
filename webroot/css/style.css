@@ -1,0 +1,162 @@
+@font-face {
+ font-family: 'Change4LifeTextRegular';
+ src: url('font/change4life_text-regular-webfont.eot');
+ src: local('?'), url('font/change4life_text-regular-webfont.woff') format('woff'), url('font/change4life_text-regular-webfont.ttf') format('truetype'), url('font/change4life_text-regular-webfont.svg#webfontPkDhBHwc') format('svg');
+ font-weight: normal;
+ font-style: normal;
+}
+
+body {
+    width: 517px;
+    height: 1000px;
+    font-family: Change4LifeTextRegular;
+/*    overflow: hidden;*/
+}
+
+#content {
+    background-color: #ffe856;
+    padding: 30px 0 0 13px;
+    margin: 0 0 20px 0;
+}
+
+.header {
+
+}
+
+.likeArrow {
+    background: url('assets/likeppl.png') no-repeat;
+    width: 333px;
+    height: 174px;
+    float: left;
+    position: absolute;
+    margin: -218px 0 0 -4px;
+}
+
+.topcurve {
+    background: url('assets/header.png') -1px 0 no-repeat;
+    width: 487px;
+    height: 187px;
+    z-index: 20;
+}
+
+.bottomcurve {
+    background: url('assets/box-bottom.png') no-repeat;
+    height: 20px;
+}
+
+.form {
+    background: url('assets/box-middle.png') repeat-y;
+    padding: 25px 16px 0 16px;
+    width: 455px;
+    display: inline-block;
+}
+
+.form ul li {
+    min-height: 37px;
+    overflow: hidden;
+}
+
+.form .copy {
+    width: 275px;
+    float: left;
+}
+
+.form .mugshot {
+    float: left;
+    margin: 0 0 0 25px
+}
+
+.form ul {
+    list-style-type: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.form ul label {
+    width: 210px;
+    padding: 0 45px 0 0;
+    font-size: 1.1em;
+}
+
+.form li input {
+    width: 250px;
+    height: 25px;
+}
+
+.form .inputFields {
+    float: left;
+    padding: 0 0 10px 0;
+}
+
+.form .RegisterErrors {
+    display: none;
+    width: 250px;
+    overflow: hidden;
+    padding: 0 0 10px 0;
+}
+
+label.error {
+    float: left;
+    color: red;
+    vertical-align: top;
+}
+
+.form .reqCopy {
+    font-size: .9em;
+    color: #e32;
+    text-align: right;
+    width: 250px;
+}
+
+.form .checkbox {
+    font-size: .8em;
+}
+
+.form #checkbox {
+    width: 20px;
+}
+
+.form #submit {
+    height: 53px;
+}
+
+.form .btnCopy {
+    color: #fff;
+    margin: -41px 0 0 10px;
+    cursor: pointer;
+}
+
+.red {
+    color: #e32;
+}
+
+.btmCTA {
+    padding: 10px 0 0 0;
+    text-align: center;
+    font-size: .8em;
+}
+
+.footer {
+    font-family: Arial;
+    background-color: #fff;
+    font-size: .7em;
+    color: #777;
+}
+
+.footer .title {
+    text-transform: uppercase;
+}
+
+.blueButton {
+    background: url('assets/buttons/blueButton.png') no-repeat;
+    width: 255px;
+    height: 53px;
+    color: #fff;
+    padding: 14px 0 0 10px;
+    font-size: 1.2em;
+}
+
+.clear {
+    clear: both;
+}
