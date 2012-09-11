@@ -1,9 +1,12 @@
 <?php
 
     class HomeController extends AppController {
-        var $name = 'Home';
-        public $components = array('Session', 'Cookie', 'RequestHandler', 'Facebook');
-        var $helpers = array('Html', 'Form', 'Js');
+        
+		
+		var $name = 'Home';
+		
+        public $components = array('Session', 'Cookie', 'RequestHandler'); 
+        var $helpers = array('Html', 'Form', 'Js'); 
 
         function index($progress = null) {
             $this -> layout = 'default';
@@ -57,6 +60,6 @@
 
         function tab() {
             $this -> layout = 'default';
-        }
+        } 
 
     }

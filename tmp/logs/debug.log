@@ -2764,3 +2764,2300 @@ Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 111
 Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 86
 [main] - APP/webroot/index.php, line 96
 
+2012-09-10 20:27:03 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:03 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:03 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:03 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:03 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:03 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:03 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:03 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:31 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:31 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:31 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:32 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:32 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:32 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:32 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:32 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:33 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:33 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:33 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:33 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:33 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:33 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:33 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:27:33 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:44 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:44 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:44 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:44 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:44 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:44 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:44 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:45 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:46 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:46 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:46 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:46 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:46 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:46 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:46 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:46 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:58 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:58 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:58 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:59 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:59 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:59 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:59 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:30:59 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:00 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:00 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:00 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:00 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:00 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:00 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:00 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:00 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:04 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:04 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:04 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:04 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:04 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:04 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:04 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:04 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:05 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:05 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:05 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:05 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:05 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:05 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:05 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:31:05 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:37 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:37 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:37 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:37 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:37 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:37 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:37 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:37 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:38 Debug: Notice (8): Undefined variable: like in [C:\wamp\profero\app\View\Home\index.ctp, line 7]
+Trace:
+include - APP\View\Home\index.ctp, line 7
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:38 Debug: Notice (8): Undefined variable: header1 in [C:\wamp\profero\app\View\Home\index.ctp, line 10]
+Trace:
+include - APP\View\Home\index.ctp, line 10
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:38 Debug: Notice (8): Undefined variable: copyDeck in [C:\wamp\profero\app\View\Home\index.ctp, line 12]
+Trace:
+include - APP\View\Home\index.ctp, line 12
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:38 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:38 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:38 Debug: Notice (8): Undefined variable: buttonColour in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:38 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:39:38 Debug: Notice (8): Undefined variable: buttonCopy in [C:\wamp\profero\app\View\Home\index.ctp, line 47]
+Trace:
+include - APP\View\Home\index.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:41:09 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:41:09 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:41:09 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:41:10 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:41:10 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:41:10 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:43:33 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:43:33 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:43:33 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:43:34 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:43:34 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:43:34 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:44:33 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:44:33 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:44:33 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:44:34 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:44:34 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:44:34 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:48:09 Debug: Notice (8): Undefined variable: userName in [C:\wamp\profero\app\Controller\HomeController.php, line 49]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 49
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:48:09 Debug: Notice (8): Undefined variable: userEmail in [C:\wamp\profero\app\Controller\HomeController.php, line 51]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:48:10 Debug: Notice (8): Undefined variable: userName in [C:\wamp\profero\app\Controller\HomeController.php, line 49]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 49
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:48:10 Debug: Notice (8): Undefined variable: userEmail in [C:\wamp\profero\app\Controller\HomeController.php, line 51]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:48:13 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:48:13 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:48:13 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:49:59 Debug: Notice (8): Undefined variable: userName in [C:\wamp\profero\app\Controller\HomeController.php, line 49]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 49
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:49:59 Debug: Notice (8): Undefined variable: userEmail in [C:\wamp\profero\app\Controller\HomeController.php, line 51]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:50:00 Debug: Notice (8): Undefined variable: userName in [C:\wamp\profero\app\Controller\HomeController.php, line 49]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 49
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:50:00 Debug: Notice (8): Undefined variable: userEmail in [C:\wamp\profero\app\Controller\HomeController.php, line 51]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:50:05 Debug: Notice (8): Undefined variable: userName in [C:\wamp\profero\app\Controller\HomeController.php, line 49]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 49
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:50:05 Debug: Notice (8): Undefined variable: userEmail in [C:\wamp\profero\app\Controller\HomeController.php, line 51]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:50:06 Debug: Notice (8): Undefined variable: userName in [C:\wamp\profero\app\Controller\HomeController.php, line 49]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 49
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:50:06 Debug: Notice (8): Undefined variable: userEmail in [C:\wamp\profero\app\Controller\HomeController.php, line 51]
+Trace:
+HomeController::saveData() - APP\Controller\HomeController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:56:04 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:56:04 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 20:56:04 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:07:51 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:07:51 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:07:51 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:07:53 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:07:53 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:07:53 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:19 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:19 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:19 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:20 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:20 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:20 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:33 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:33 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:33 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:34 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:34 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:22:34 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:57:18 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:57:18 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:57:18 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:57:19 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:57:19 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 21:57:19 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:03:18 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:03:18 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:03:18 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:03:20 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:03:20 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:03:20 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:24:15 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:24:15 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:24:15 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:24:17 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:24:17 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:24:17 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:25:08 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:25:08 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:25:08 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:25:09 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:25:09 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:25:09 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:08 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:08 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:08 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:09 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:09 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:09 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:45 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:45 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:45 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:46 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:46 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:26:46 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:08 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:08 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:08 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:09 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:09 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:09 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:28 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:28 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:28 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:29 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:29 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 22:27:29 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 23:51:04 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 23:51:04 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-10 23:51:04 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:07 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:07 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:07 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:09 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:09 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:09 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:31 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:31 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:31 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:32 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:32 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 06:48:32 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 07:37:59 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 07:37:59 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 07:37:59 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 07:38:00 Debug: Notice (8): Undefined variable: oldName in [C:\wamp\profero\app\View\Home\index.ctp, line 29]
+Trace:
+include - APP\View\Home\index.ctp, line 29
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 07:38:00 Debug: Notice (8): Undefined variable: oldEmail in [C:\wamp\profero\app\View\Home\index.ctp, line 32]
+Trace:
+include - APP\View\Home\index.ctp, line 32
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
+2012-09-11 07:38:00 Debug: Notice (8): Undefined variable: btnStatus in [C:\wamp\profero\app\View\Home\index.ctp, line 44]
+Trace:
+include - APP\View\Home\index.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 96
+
