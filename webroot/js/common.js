@@ -21,7 +21,11 @@ function apputil() {
     var _apputil = _apputil ? _apputil : {
         init:function()
         {
-            $('.btnCopy').click(function() { $('#submit').trigger('click'); });
+    		$('input[name=name], input[name=email]').blur(function(){ $(".RegisterErrorsServer").hide(); });	// hide field containing server errors in same way as $.validate to maintain consistency
+            $('.btnCopy').click(function() {
+            	$(".RegisterErrorsServer").hide();	// hide field containing server errors as client validation may duplicate
+            	$('#submit').trigger('click');	// validate/submit
+            });
         }
     }
     return _apputil;

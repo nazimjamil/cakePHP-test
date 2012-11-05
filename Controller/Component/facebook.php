@@ -48,7 +48,7 @@
         }
 
         //called after Controller::beforeFilter()
-	function startup(&$controller) {
-	}
+		function startup(&$controller) {
+		}
 
     }
