@@ -67,10 +67,10 @@ Cache::config('default', array('engine' => 'File'));
 Configure::write('debug', 0);
 
 Configure::write('fbconfig', array(
-    'id' => '',
-    'secret' => '',
-    'appRoot' => '',
-    'appBaseUrl' => '',
+    'id' => '302049886577874',
+    'secret' => '6a5660a65cf6b3abfb7d148a3026b6ff',
+    'appRoot' => 'profero.local',//young-dawn-7241.herokuapp.com',
+    'appBaseUrl' => 'profero.local',
     'scope' => 'email'
 ));
 

@@ -14,7 +14,7 @@
         <p class='mugshot'>
         <?php echo $this -> Html -> image ('assets/mugshot.jpg', array('alt' => 'product', 'width' => 130, 'height' => 170)); ?>
         </p>
-        <?php echo $this->Form->create('enterForm', array('url' => 'saveData', 'id' => 'enterForm')); ?>
+        <?php echo $this->Form->create('enterForm', array('url' => '/', 'id' => 'enterForm')); ?>
             <ul class='clear'>
                 <li>
                     <label>your name: <span class='red'>*</span></label>
@@ -35,13 +35,21 @@
                     * These fields are required
                 </li>
                 <li class='checkbox'>
-                    <input id='checkbox' type="checkbox" name="tnc" value="0" />I have read and understood the trivia below.
+                    <input id='checkbox' type="checkbox" name="tnc" value="1" />I have read and understood the trivia below.
+                </li>
+                <li class="RegisterErrorsServer">
+                    <!-- Server-side validation errors -->
+                    <?php if(!empty($errors)) : ?>
+                    <?php 	foreach($errors as $message) : ?>
+                    	<label class="error"><?php echo $message; ?></label>
+                   	<?php 	endforeach; ?>
+                    <?php endif; ?>
                 </li>
                 <li class="RegisterErrors">
-                    <!-- Validation errors -->
+                	<!-- Validation errors -->
                 </li>
                 <li>
-                    <input type="image" id="submit" name="data[enterForm][submit]" src="img/buttons/<?php echo $buttonColour; ?>Button.png" class="picture" alt='Submit your entry ' <?php echo $btnStatus; ?>/><br />
+                    <input type="image" id="submit" name="submit" src="img/buttons/<?php echo $buttonColour; ?>Button.png" class="picture" alt="<?php echo $buttonCopy; ?>" <?php echo $btnStatus; ?>/><br />
                 </li>
                 <li class='btnCopy'>
                     <?php echo $buttonCopy; ?>
