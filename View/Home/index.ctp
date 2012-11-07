@@ -14,7 +14,7 @@
         <p class='mugshot'>
         <?php echo $this -> Html -> image ('assets/mugshot.jpg', array('alt' => 'product', 'width' => 130, 'height' => 170)); ?>
         </p>
-        <?php echo $this->Form->create('enterForm', array('url' => 'saveData', 'id' => 'enterForm')); ?>
+        <?php echo $this->Form->create('enterForm', array('url' => 'index', 'id' => 'enterForm')); ?>
             <ul class='clear'>
                 <li>
                     <label>your name: <span class='red'>*</span></label>
@@ -26,22 +26,25 @@
             </ul>
             <ul class='inputFields'>
                 <li>
-                    <input type='text' name='name' value='<?php echo $oldName; ?>' />
+                    <input type='text' name='name' value='<?php echo empty($oldName) ? '' : $oldName; ?>' />
                 </li>
                 <li>
-                    <input type='text' name='email' value='<?php echo $oldEmail; ?>' />
+                    <input type='text' name='email' value='<?php echo empty($oldEmail) ? '' : $oldEmail; ?>' />
                 </li>
                 <li class='reqCopy'>
                     * These fields are required
                 </li>
                 <li class='checkbox'>
-                    <input id='checkbox' type="checkbox" name="tnc" value="0" />I have read and understood the trivia below.
+                    <input id='checkbox' type="checkbox" name="tnc" value="1" />I have read and understood the trivia below.
                 </li>
-                <li class="RegisterErrors">
+                <li class="RegisterErrors" style="<?php echo !empty($displayErrorMessages) ? 'display:block' : ''?>">
                     <!-- Validation errors -->
+                    <?php echo !empty($nameError) ? "<label class=error>".$nameError."</label>" : '' ?>
+                    <?php echo !empty($emailError) ? "<label class=error>".$emailError."</label>" : '' ?>
+                    <?php echo !empty($tncError) ? "<label class=error>".$tncError."</label>" : '' ?>
                 </li>
                 <li>
-                    <input type="image" id="submit" name="data[enterForm][submit]" src="img/buttons/<?php echo $buttonColour; ?>Button.png" class="picture" alt='Submit your entry ' <?php echo $btnStatus; ?>/><br />
+                    <input type="image" id="submit" name="data[enterForm][submit]" src="<?php echo $this->webroot ?>/img/buttons/<?php echo $buttonColour; ?>Button.png" class="picture" alt='Submit your entry ' <?php echo empty($btnStatus) ? '' : $btnStatus; ?>/><br />
                 </li>
                 <li class='btnCopy'>
                     <?php echo $buttonCopy; ?>
